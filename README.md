@@ -1,9 +1,8 @@
 ### Hi! I am Jheysson Douglas 👋
 
 
-- 🔭 I'm currently working on iFood with Data Analysis
-- 🌱 Studying Data Science & Machine Learning
-- 📫 How to reach me: Linkedin 
+- 📊 I'm currently working on iFood with Data Analysis
+- 📚 Studying Data Science & Machine Learning
 
 <div>
   <a href="https://github.com/jheyssondouglas">
